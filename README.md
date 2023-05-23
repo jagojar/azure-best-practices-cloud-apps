@@ -1,4 +1,4 @@
-# azure-best-practices-cloud-apps
+# Azure Best Practices for Cloud Apps
 
 1. Retry guidance for specific services
 2. Transient fault handling
