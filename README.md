@@ -17,3 +17,5 @@
 9. Host name preservation
 10. Message encoding considerations
 11. Monitoring and diagnostics
+
+https://learn.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices
