@@ -1,3 +1,5 @@
+# The ServiceBusRetryOptions property specifies the retry options for the ServiceBusClient object:
+
 ```csharp
 // using Azure.Messaging.ServiceBus;
 
