@@ -3,7 +3,7 @@
 | Service  | Notes |
 | ------------- | ------------- |
 | [Azure SQL](azure-sql-retry.md)  | Sql Data Client   |
-| [Service Bus](service-bus-rery.md)  | SDK Client  |
+| [Service Bus](service-bus-retry.md)  | SDK Client  |
 | [Entity Framework 6](entity-framework-6.md)  | EF6 Libraries  |
 | [Entity Framework Core](entity-framework-core.md) | EF6 Libraries  |
 
