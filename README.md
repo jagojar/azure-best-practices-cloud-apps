@@ -2,7 +2,7 @@
 
 1. Retry guidance for specific services [link](retry-guidance.md)
 2. Transient fault handling
-3. Robust App Service  [link](https://azure.github.io/AppService/2020/05/15/Robust-Apps-for-the-cloud.html#use-multiple-instances)
+3. Robust App Service  [link](https://azure.github.io/AppService/2020/05/15/Robust-Apps-for-the-cloud.html#use-multiple-instances){:target="_blank"}
 
 # Other best practices
 
