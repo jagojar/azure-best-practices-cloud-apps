@@ -1,7 +1,7 @@
 # Azure Best Practices for Cloud Apps
 
 1. Retry guidance for specific services [link](retry-guidance.md)
-2. Transient fault handling
+2. Transient fault handling [link](https://learn.microsoft.com/en-us/aspnet/aspnet/overview/developing-apps-with-windows-azure/building-real-world-cloud-apps-with-windows-azure/transient-fault-handling)
 3. Robust App Service  [link](https://azure.github.io/AppService/2020/05/15/Robust-Apps-for-the-cloud.html#use-multiple-instances)
 
 # Other best practices
